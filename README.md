@@ -3,7 +3,7 @@ Column Description
 
 Column 1: reviewerID
 
-Column 2: paperID
+Column 2: thesisID
 
 Column 3: isMatch
 
